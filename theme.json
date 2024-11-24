@@ -44,8 +44,11 @@
 	"styles": {
 		"elements": {
 			"heading": {
+				"color": {
+					"text": "var(--wp--preset--color--vivid-green-cyan)"
+				},
 				"typography": {
-					"fontFamily": "var(--wp--preset--font-family--abril-fatface)"
+					"fontFamily": "var(--wp--preset--font-family--system-font)"
 				}
 			}
 		}
