@@ -17,8 +17,8 @@
 
 <!-- wp:group {"layout":{"type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:query {"queryId":5,"query":{"perPage":6,"pages":0,"offset":0,"postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":false,"taxQuery":null,"parents":[],"format":[]}} -->
-<div class="wp-block-query"><!-- wp:heading {"textAlign":"center","fontSize":"x-large"} -->
-<h2 class="wp-block-heading has-text-align-center has-x-large-font-size"><?php esc_html_e('Must Visit Places:', 'eco-theme');?></h2>
+<div class="wp-block-query"><!-- wp:heading {"textAlign":"center","fontSize":"large"} -->
+<h2 class="wp-block-heading has-text-align-center has-large-font-size"><?php esc_html_e('Must Visit Places:', 'eco-theme');?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:post-template {"style":{"spacing":{"blockGap":"var:preset|spacing|20"}},"fontSize":"small","layout":{"type":"grid","columnCount":3,"minimumColumnWidth":null}} -->
